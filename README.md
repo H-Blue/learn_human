@@ -1,7 +1,8 @@
 # learn_human
 Projects I human coded
 
-random_game.py
+### random_game.py
+
 Desc:
   Made this as a project to learn how to code. The user guesses a random number and the computer generates a number, if they match, you win! Else, you lose!
 
