@@ -1,4 +1,4 @@
-# learn_human
+# learning projects
 *Projects I human coded*
 
 ### random_game.py
